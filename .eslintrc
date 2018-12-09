@@ -1,0 +1,11 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "no-unused-vars": 0,
+    "strict": [2, "global"]
+  },
+  "globals": {
+    "document": true
+},
+  "extends": ["airbnb-base"]
+}
